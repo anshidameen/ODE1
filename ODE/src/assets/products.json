@@ -1,0 +1,273 @@
+[
+    
+    {
+      "name": "Men's T-Shirt",
+      "brandname": "BrandX",
+      "category": "men",
+      "subcategory": "T-shirts",
+      "price": 19.99,
+      "size": "M",
+      "image": "https://example.com/images/mens_tshirt.jpg"
+    },
+    {
+      "name": "Men's Pants",
+      "brandname": "BrandY",
+      "category": "men",
+      "subcategory": "Pants",
+      "price": 29.99,
+      "size": "M",
+      "image": "https://example.com/images/mens_pants.jpg"
+    },
+    {
+      "name": "Men's Shirt",
+      "brandname": "BrandZ",
+      "category": "men",
+      "subcategory": "Shirts",
+      "price": 34.99,
+      "size": "S",
+      "image": "https://example.com/images/mens_shirt.jpg"
+    },
+    {
+      "name": "Men's Hoodie",
+      "brandname": "BrandA",
+      "category": "men",
+      "subcategory": "Sweatshirts",
+      "price": 39.99,
+      "size": "L",
+      "image": "https://example.com/images/mens_hoodie.jpg"
+    },
+    {
+      "name": "Men's Jacket",
+      "brandname": "BrandB",
+      "category": "men",
+      "subcategory": "Jackets",
+      "price": 49.99,
+      "size": "M",
+      "image": "https://example.com/images/mens_jacket.jpg"
+    },
+    {
+      "name": "Men's Shorts",
+      "brandname": "BrandC",
+      "category": "men",
+      "subcategory": "Shorts",
+      "price": 24.99,
+      "size": "S",
+      "image": "https://example.com/images/mens_shorts.jpg"
+    },
+    {
+      "name": "Men's Sneakers",
+      "brandname": "BrandD",
+      "category": "men",
+      "subcategory": "Footwear",
+      "price": 59.99,
+      "size": "L",
+      "image": "https://example.com/images/mens_sneakers.jpg"
+    },
+    {
+      "name": "Men's Socks",
+      "brandname": "BrandE",
+      "category": "men",
+      "subcategory": "Accessories",
+      "price": 9.99,
+      "size": "M",
+      "image": "https://example.com/images/mens_socks.jpg"
+    },
+    {
+      "name": "Men's Cap",
+      "brandname": "BrandF",
+      "category": "men",
+      "subcategory": "Accessories",
+      "price": 14.99,
+      "size": "L",
+      "image": "https://example.com/images/mens_cap.jpg"
+    },
+    {
+      "name": "Men's Belt",
+      "brandname": "BrandG",
+      "category": "men",
+      "subcategory": "Accessories",
+      "price": 19.99,
+      "size": "M",
+      "image": "https://example.com/images/mens_belt.jpg"
+    },
+    {
+      "name": "Women's Dress",
+      "brandname": "BrandH",
+      "category": "women",
+      "subcategory": "Dresses",
+      "price": 49.99,
+      "size": "M",
+      "image": "https://example.com/images/womens_dress.jpg"
+    },
+    {
+      "name": "Women's Blouse",
+      "brandname": "BrandI",
+      "category": "women",
+      "subcategory": "Tops",
+      "price": 29.99,
+      "size": "L",
+      "image": "https://example.com/images/womens_blouse.jpg"
+    },
+    {
+      "name": "Women's Skirt",
+      "brandname": "BrandJ",
+      "category": "women",
+      "subcategory": "Skirts",
+      "price": 24.99,
+      "size": "S",
+      "image": "https://example.com/images/womens_skirt.jpg"
+    },
+    {
+      "name": "Women's Pants",
+      "brandname": "BrandK",
+      "category": "women",
+      "subcategory": "Pants",
+      "price": 34.99,
+      "size": "M",
+      "image": "https://example.com/images/womens_pants.jpg"
+    },
+    {
+      "name": "Women's Cardigan",
+      "brandname": "BrandL",
+      "category": "women",
+      "subcategory": "Sweaters",
+      "price": 39.99,
+      "size": "L",
+      "image": "https://example.com/images/womens_cardigan.jpg"
+    },
+    {
+      "name": "Women's Coat",
+      "brandname": "BrandM",
+      "category": "women",
+      "subcategory": "Coats",
+      "price": 69.99,
+      "size": "S",
+      "image": "https://example.com/images/womens_coat.jpg"
+    },
+    {
+      "name": "Women's Boots",
+      "brandname": "BrandN",
+      "category": "women",
+      "subcategory": "Footwear",
+      "price": 59.99,
+      "size": "M",
+      "image": "https://example.com/images/womens_boots.jpg"
+    },
+    {
+      "name": "Women's Scarf",
+      "brandname": "BrandO",
+      "category": "women",
+      "subcategory": "Accessories",
+      "price": 14.99,
+      "size": "L",
+      "image": "https://example.com/images/womens_scarf.jpg"
+    },
+    {
+      "name": "Women's Hat",
+      "brandname": "BrandP",
+      "category": "women",
+      "subcategory": "Accessories",
+      "price": 19.99,
+      "size": "S",
+      "image": "https://example.com/images/womens_hat.jpg"
+    },
+    {
+      "name": "Women's Sunglasses",
+      "brandname": "BrandQ",
+      "category": "women",
+      "subcategory": "Accessories",
+      "price": 24.99,
+      "size": "M",
+      "image": "https://example.com/images/womens_sunglasses.jpg"
+    },
+    {
+      "name": "Kid's T-Shirt",
+      "brandname": "BrandR",
+      "category": "kids",
+      "subcategory": "T-shirts",
+      "price": 14.99,
+      "size": "S",
+      "image": "https://example.com/images/kids_tshirt.jpg"
+    },
+    {
+      "name": "Kid's Pants",
+      "brandname": "BrandS",
+      "category": "kids",
+      "subcategory": "Pants",
+      "price": 19.99,
+      "size": "M",
+      "image": "https://example.com/images/kids_pants.jpg"
+    },
+    {
+      "name": "Kid's Shirt",
+      "brandname": "BrandT",
+      "category": "kids",
+      "subcategory": "Shirts",
+      "price": 17.99,
+      "size": "L",
+      "image": "https://example.com/images/kids_shirt.jpg"
+    },
+    {
+      "name": "Kid's Hoodie",
+      "brandname": "BrandU",
+      "category": "kids",
+      "subcategory": "Sweatshirts",
+      "price": 22.99,
+      "size": "M",
+      "image": "https://example.com/images/kids_hoodie.jpg"
+    },
+    {
+      "name": "Kid's Jacket",
+      "brandname": "BrandV",
+      "category": "kids",
+      "subcategory": "Jackets",
+      "price": 29.99,
+      "size": "S",
+      "image": "https://example.com/images/kids_jacket.jpg"
+    },
+    {
+      "name": "Kid's Skirt",
+      "brandname": "BrandW",
+      "category": "kids",
+      "subcategory": "Skirts",
+      "price": 19.99,
+      "size": "M",
+      "image": "https://example.com/images/kids_skirt.jpg"
+    },
+    {
+      "name": "Kid's Shorts",
+      "brandname": "BrandX",
+      "category": "kids",
+      "subcategory": "Shorts",
+      "price": 16.99,
+      "size": "L",
+      "image": "https://example.com/images/kids_shorts.jpg"
+    },
+    {
+      "name": "Kid's Shoes",
+      "brandname": "BrandY",
+      "category": "kids",
+      "subcategory": "Footwear",
+      "price": 24.99,
+      "size": "M",
+      "image": "https://example.com/images/kids_shoes.jpg"
+    },
+    {
+      "name": "Kid's Hat",
+      "brandname": "BrandZ",
+      "category": "kids",
+      "subcategory": "Accessories",
+      "price": 9.99,
+      "size": "S",
+      "image": "https://example.com/images/kids_hat.jpg"
+    },
+    {
+      "name": "Kid's Socks",
+      "brandname": "BrandA",
+      "category": "kids",
+      "subcategory": "Accessories",
+      "price": 5.99,
+      "size": "L",
+      "image": "https://example.com/images/kids_socks.jpg"
+    }
+]

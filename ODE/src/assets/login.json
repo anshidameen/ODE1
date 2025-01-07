@@ -1,0 +1,115 @@
+[
+    {
+      "name": "John Doe",
+      "mobile": "1234567890",
+      "email": "john.doe@example.com",
+      "username": "johndoe1",
+      "password": "password123",
+      "role": "admin"
+    },
+    {
+      "name": "Jane Smith",
+      "mobile": "0987654321",
+      "email": "jane.smith@example.com",
+      "username": "janesmith1",
+      "password": "password123",
+      "role": "admin"
+    },
+    {
+      "name": "Alice Brown",
+      "mobile": "1122334455",
+      "email": "alice.brown@example.com",
+      "username": "alicebrown1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Bob White",
+      "mobile": "2233445566",
+      "email": "bob.white@example.com",
+      "username": "bobwhite1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Charlie Green",
+      "mobile": "3344556677",
+      "email": "charlie.green@example.com",
+      "username": "charliegreen1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "David Black",
+      "mobile": "4455667788",
+      "email": "david.black@example.com",
+      "username": "davidblack1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Eva White",
+      "mobile": "5566778899",
+      "email": "eva.white@example.com",
+      "username": "evawhite1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Frank Yellow",
+      "mobile": "6677889900",
+      "email": "frank.yellow@example.com",
+      "username": "frankyellow1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Grace Blue",
+      "mobile": "7788990011",
+      "email": "grace.blue@example.com",
+      "username": "graceblue1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Hank Pink",
+      "mobile": "8899001122",
+      "email": "hank.pink@example.com",
+      "username": "hankpink1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Ivy Orange",
+      "mobile": "9900112233",
+      "email": "ivy.orange@example.com",
+      "username": "ivyorange1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Jack Purple",
+      "mobile": "1011122334",
+      "email": "jack.purple@example.com",
+      "username": "jackpurple1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Kathy Silver",
+      "mobile": "1122334455",
+      "email": "kathy.silver@example.com",
+      "username": "kathysilver1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Liam Gold",
+      "mobile": "2233445566",
+      "email": "liam.gold@example.com",
+      "username": "liamgold1",
+      "password": "password123",
+      "role": "user"
+    }
+  ]
+  
