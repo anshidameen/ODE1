@@ -1,3 +1,14 @@
-<div *ngFor="let prod of productList">
-    {{prod.name}}
+<div >
+    <!-- {{prod.name}}
+    <img src="{{prod.image}}" alt=""> -->
+    <div class="row">
+        <div class="col-4" *ngFor="let prod of newProductList">
+            <div class="card" style="width: 28rem;">
+                <img class="card-img-top" src="{{prod.image}}" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">{{prod.name}}</h5>
+                </div>
+              </div>
+        </div>
+    </div>
 </div>

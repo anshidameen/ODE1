@@ -9,14 +9,13 @@ import { ProductsService } from 'src/app/core/services/products.service';
 export class HomeComponent implements OnInit {
 
   productList:any;
-  constructor(private service:ProductsService) { }
-
+  newProductList:any=[];
+  constructor(private service:ProductsService) { }  
   ngOnInit(): void {
     this.service.getAllProducts().subscribe((data)=>{
       this.productList=data;
-      console.log(this.productList);
-    })
+      this.newProductList= this.productList.filter((user: { category: string; })=>user.category==='men');
+      console.log(this.newProductList);
+    });
   }
-
-
 }

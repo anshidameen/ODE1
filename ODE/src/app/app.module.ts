@@ -9,6 +9,9 @@ import { HeaderComponent } from './shared/header/header.component';
 import { FooterComponent } from './shared/footer/footer.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { DashboardComponent } from './feature/dashboard/dashboard.component';
+import { CartComponent } from './feature/cart/cart.component';
+import { PaymentComponent } from './feature/payment/payment.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +20,10 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     HomeComponent,
     ProductComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    DashboardComponent,
+    CartComponent,
+    PaymentComponent
   ],
   imports: [
     BrowserModule,

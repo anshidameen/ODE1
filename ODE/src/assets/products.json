@@ -7,7 +7,7 @@
       "subcategory": "T-shirts",
       "price": 19.99,
       "size": "M",
-      "image": "https://example.com/images/mens_tshirt.jpg"
+      "image": "https://ik.imagekit.io/anscommerce/image/tr:e-usm-2-2-0.7-0.008,dpr-3,h-500,w-500,q-85,cm-pad_resize/catalog/giordano/product/0104802401/586-1727721000-0104802401.jpg"
     },
     {
       "name": "Men's Pants",
@@ -16,7 +16,7 @@
       "subcategory": "Pants",
       "price": 29.99,
       "size": "M",
-      "image": "https://example.com/images/mens_pants.jpg"
+      "image": "https://ik.imagekit.io/anscommerce/image/tr:e-usm-2-2-0.7-0.008,dpr-3,h-500,w-500,q-85,cm-pad_resize/data/Giordano/26sep2024/0102475019_1.jpg"
     },
     {
       "name": "Men's Shirt",
@@ -25,7 +25,7 @@
       "subcategory": "Shirts",
       "price": 34.99,
       "size": "S",
-      "image": "https://example.com/images/mens_shirt.jpg"
+      "image": "https://ik.imagekit.io/anscommerce/image/tr:e-usm-2-2-0.7-0.008,dpr-3,h-500,w-500,q-85,cm-pad_resize/data/Giordano/26sep2024/0102380219_1.jpg"
     },
     {
       "name": "Men's Hoodie",
@@ -34,7 +34,7 @@
       "subcategory": "Sweatshirts",
       "price": 39.99,
       "size": "L",
-      "image": "https://example.com/images/mens_hoodie.jpg"
+      "image": "https://ik.imagekit.io/anscommerce/image/tr:e-usm-2-2-0.7-0.008,dpr-3,h-500,w-500,q-85,cm-pad_resize/data/Giordano/26sep2024/0102380210_2.jpg"
     },
     {
       "name": "Men's Jacket",
